@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.972" height="15.111" viewBox="0 0 14.972 15.111">
+  <g id="그룹_106" data-name="그룹 106" transform="translate(-70.457 -2.889)">
+    <g id="그룹_51" data-name="그룹 51" transform="translate(70.457 2)">
+      <text id="c" transform="translate(4.523 11)" fill="#fff" font-size="12" font-family="MyriadPro-Regular, Myriad Pro"><tspan x="0" y="0">c</tspan></text>
+      <g id="타원_1" data-name="타원 1" transform="translate(0 0.889)" fill="none" stroke="#707070" stroke-width="1">
+        <ellipse cx="7.486" cy="7.556" rx="7.486" ry="7.556" stroke="none"/>
+        <ellipse cx="7.486" cy="7.556" rx="6.986" ry="7.056" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
