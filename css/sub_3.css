@@ -168,7 +168,7 @@ input[type="button"]{/*input태그의 type별 꾸미기가능*/
     margin-left: 10px;
     cursor: pointer;
 }
-input[type="submit"]{
+input[type="reset"]:nth-child(1){
     background-color: #DBAF7C;
     color: #fff;
     display: inline-block;
@@ -206,11 +206,13 @@ textarea{
 #number_box{
     border: 1px solid #ccc;
     height: 26px;
+    outline: none;
 }
 #advice_box{
     border: 1px solid #ccc;
     height: 26px;
     width: 120px;
+    outline: none;
 }
 .section2{
     width: 1320px;
@@ -224,6 +226,7 @@ textarea{
 .section2 th{
     text-align: center;
 }
+
 /* .swiper */
 .swiper {
     width: 100%;
